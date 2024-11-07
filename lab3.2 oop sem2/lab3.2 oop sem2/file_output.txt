@@ -1,0 +1,4 @@
+Text: When the magnetic flux changes through the surface bounded by the conducting circuit, an electric current arises in it. Such a current is called an induction current and is created by an electromotive force 
+The number of capital letters in the text: 2
+Words with the least number of letters: a 
+Text without words starting with a lowercase letter: When Such 
