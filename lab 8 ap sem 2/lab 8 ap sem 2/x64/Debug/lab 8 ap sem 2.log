@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual studio\C++\code\lab 8 ap sem 2\lab 8 ap sem 2\Source.cpp(29,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual studio\C++\code\lab 8 ap sem 2\lab 8 ap sem 2\Source.cpp(58,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual studio\C++\code\lab 8 ap sem 2\lab 8 ap sem 2\Source.cpp(62,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab 8 ap sem 2.vcxproj -> D:\Visual studio\C++\code\lab 8 ap sem 2\x64\Debug\lab 8 ap sem 2.exe
