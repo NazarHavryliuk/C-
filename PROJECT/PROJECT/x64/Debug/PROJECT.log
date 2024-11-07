@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+D:\Visual studio\C++\code\PROJECT\PROJECT\MyForm.h(552,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Visual studio\C++\code\PROJECT\PROJECT\MyForm.h(561,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\Visual studio\C++\code\PROJECT\PROJECT\MyForm.h(595,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PROJECT.vcxproj -> D:\Visual studio\C++\code\PROJECT\x64\Debug\PROJECT.exe
