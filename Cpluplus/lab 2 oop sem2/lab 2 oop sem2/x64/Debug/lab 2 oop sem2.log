@@ -1,0 +1,10 @@
+﻿  Procesor.cpp
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Procesor.cpp(8,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Procesor.cpp(44,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Source.cpp(9,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Source.cpp(10,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Source.cpp(11,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Visual studio\C++\code\lab 2 oop sem2\lab 2 oop sem2\Source.cpp(12,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab 2 oop sem2.vcxproj -> D:\Visual studio\C++\code\lab 2 oop sem2\x64\Debug\lab 2 oop sem2.exe

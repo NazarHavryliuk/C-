@@ -1,0 +1,5 @@
+D:\Visual studio\C\SportCO\SportCO\x64\Debug\SportCO.vcxproj.AssemblyReference.cache
+D:\Visual studio\C\SportCO\SportCO\x64\Debug\SportCO.FormUser.resources
+D:\Visual studio\C\SportCO\SportCO\x64\Debug\SportCO.vcxproj.GenerateResource.cache
+D:\Visual studio\C\SportCO\SportCO\x64\Debug\SportCO.FormHead.resources
+D:\Visual studio\C\SportCO\SportCO\x64\Debug\SportCO.FormCoach.resources

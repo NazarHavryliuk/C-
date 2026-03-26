@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab 4.2 oop sem 2", "lab 4.2 oop sem 2\lab 4.2 oop sem 2.vcxproj", "{D10CB361-1374-4AB5-A678-FA9BC95391FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Debug|x64.ActiveCfg = Debug|x64
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Debug|x64.Build.0 = Debug|x64
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Debug|x86.Build.0 = Debug|Win32
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Release|x64.ActiveCfg = Release|x64
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Release|x64.Build.0 = Release|x64
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Release|x86.ActiveCfg = Release|Win32
+		{D10CB361-1374-4AB5-A678-FA9BC95391FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37534466-3125-4CD0-AF93-9D51547C1114}
+	EndGlobalSection
+EndGlobal

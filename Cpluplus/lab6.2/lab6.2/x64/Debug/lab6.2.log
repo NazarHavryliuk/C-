@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Visual studio\C++\code\lab6.2\lab6.2\Source.cpp(10,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual studio\C++\code\lab6.2\lab6.2\Source.cpp(10,17): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Visual studio\C++\code\lab6.2\lab6.2\Source.cpp(42,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual studio\C++\code\lab6.2\lab6.2\Source.cpp(43,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual studio\C++\code\lab6.2\lab6.2\Source.cpp(70,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab6.2.vcxproj -> D:\Visual studio\C++\code\lab6.2\x64\Debug\lab6.2.exe
